@@ -1,0 +1,5 @@
+This was the seventh game jam that I orgainzed for my local game dev community... This time the theme was "Time manipulation". The game went through about three iterations... First iteration was to make it so they had to make there way through a level before the timer gives out and collecting special power ups would roll back time a bit so they could have more time. The problem that happened with that was generating the level that was mapped out was going to be to much work for the time of the jam (6 hours). 
+
+So the solution was to dumb it down greatly, to just having three blocks and one power up a player needs to get to roll back time and get the trophy on the right side. Time was running out and couldn't get the jumping to work right with th collision detecion so had to quickly change up the idea one more time... So the idea was to now see if can press space bar enough times so it rolls back the clock while you move over to the right to get the trophy.
+
+To play the game you must hammer on the space bar key as fast as you possibly can to keep the clock from hitting zero... While also pushing the right key to get the trophy.
